@@ -1,5 +1,7 @@
 ﻿# To-do-list
  
+ ### Tthis is a simple task list
+ 
  ## Demo
  
 https://mariolafilipiak.github.io/toDoList/
