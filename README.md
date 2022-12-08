@@ -2,7 +2,7 @@
  
  ## Demo
  
- https://mariolafilipiak.github.io/To-do-list/
+https://mariolafilipiak.github.io/toDoList/
  
 ![gif](https://github.com/MariolaFilipiak/toDoList/blob/main/images/gif.gif?raw=true)
 
