@@ -1,6 +1,6 @@
 ﻿# To-do-list
  
- ### Tthis is a simple task list
+ ### This is a simple task list
  
  ## Demo
  
