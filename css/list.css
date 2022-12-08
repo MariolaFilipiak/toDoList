@@ -1,0 +1,42 @@
+.list {
+    margin: 0;
+    padding: 20px;
+    list-style: none;
+    background-color: white;
+}
+
+.list__button {
+    height: 30px;
+    width: 30px;
+    background: green;
+    border: none;
+    margin: 0;
+}
+
+.list__button:active {
+    border: 1px solid rgb(78, 78, 78);
+    border-radius: 1px;
+}
+
+.list__button--done {
+    color: white;
+    font-weight: bold;
+
+}
+
+.list__button--remove {
+    background-color: red;
+    color: white;
+}
+
+.list__item {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    grid-gap: 10px;
+    border-bottom: 1px solid #ddd;
+    align-items: center;
+}
+
+.list__done {
+    text-decoration-line: line-through;
+}
