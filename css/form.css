@@ -20,7 +20,15 @@
     color: white;
     padding: 10px;
     border: none;
+    transition: 0.5s;
 }
+
+.form__button:hover{
+    background:hsl(180, 100%, 35%);
+    transform: scale(1.1);
+}
+
+
 
 @media(max-width: 768px){
     .form__button {
