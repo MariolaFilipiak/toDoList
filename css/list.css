@@ -40,3 +40,6 @@
 .list__done {
     text-decoration-line: line-through;
 }
+.list__item--hidden{
+    display: none;
+}
